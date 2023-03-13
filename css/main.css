@@ -15,8 +15,10 @@
   margin-right: auto;
 }
 
+
+
 body {
-  overflow-x: hidden;
+  overflow-x: hidden;   
 }
 
 body,
@@ -852,13 +854,7 @@ td {
   margin: 30px;
 }
 
-#slider figure {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
+
 
 .table100 {
   background-color: #fff;
